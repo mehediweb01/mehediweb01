@@ -1,4 +1,4 @@
-![I am mehediweb01](https://github.com/mehediweb01/mehediweb01/blob/main/cover.jpg)
+![I am mehediweb01](https://github.com/mehediweb01/mehediweb01/blob/main/cover.png)
 
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <h3 align="center">Programmer</h3>
