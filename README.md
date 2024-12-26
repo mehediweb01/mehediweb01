@@ -56,8 +56,8 @@ Skills:  HTML / CSS / BOOTSTRAP / JS
 ## Best Repo -
 
 [![React Projects](https://github-readme-stats.vercel.app/api/pin/?username=mehediweb01&repo=GoveriningDocs&bordercolor=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehediweb01/GoveriningDocs)
-
 [![React Projects](https://github-readme-stats.vercel.app/api/pin/?username=mehediweb01&repo=disasters-I-O&bordercolor=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehediweb01/disasters-I-O.git)
+
 
 
 <p align="left">
@@ -77,8 +77,8 @@ Skills:  HTML / CSS / BOOTSTRAP / JS
 </p>
 
 <a> 
-    <a href="https://github.com/mehediweb01"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mehediweb01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mehediweb01"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mehediweb01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/mehediweb01"><img alt="Mehedi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mehediweb01&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mehediweb01"><img alt="Mehedi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mehediweb01&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
