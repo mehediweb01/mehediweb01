@@ -1,4 +1,4 @@
-![I am mehediweb01](https://github.com/mehediweb01/mehediweb01/blob/main/cover.png)
+![I am mehediweb01](https://github.com/mehediweb01/mehediweb01/blob/main/me-cover-image.jpg)
 
 <h1 align="center">Hi 👋, I'm Md. Mehedi Hasan</h1>
 <h3 align="center">Programmer</h3>
@@ -34,7 +34,7 @@ Skills:  HTML / CSS / BOOTSTRAP / JS
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<!--![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +55,7 @@ Skills:  HTML / CSS / BOOTSTRAP / JS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=mehediweb01&repo=Digital-clock&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehediweb01/Digital-clock)
+[![React Projects](https://github-readme-stats.vercel.app/api/pin/?username=mehediweb01&repo=Digital-clock&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mehediweb01/GoveriningDocs)
 
 
 <p align="left">
@@ -70,7 +70,7 @@ Skills:  HTML / CSS / BOOTSTRAP / JS
 
 <p align="center">
   <a href="https://github.com/mehediweb01">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehediweb01&theme=radical" alt="Harun's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehediweb01&theme=radical" alt="Mehedi's GitHub Contribution"/>
   </a>
 </p>
 
