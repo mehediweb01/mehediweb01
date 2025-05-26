@@ -7,8 +7,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mehediweb01&color=red)
 
-Skills:  HTML / CSS / BOOTSTRAP / JS /  REACT.JS 
-
+Skills:  HTML / CSS / BOOTSTRAP / TAILWINDCSS / JS /  REACT.JS 
 </div>
 
 
@@ -22,10 +21,10 @@ Skills:  HTML / CSS / BOOTSTRAP / JS /  REACT.JS
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://fb.com/mehediwebdesigner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/mehedihasan0937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mehedi-hasan-w-d-90634424b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehediweb01" height="30" width="40" /></a>
-<a href="https://instagram.com/mehedihasan0938" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mehediweb01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://x.com/mehediweb01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehediweb01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehediweb01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mehediweb01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -91,13 +90,13 @@ Skills:  HTML / CSS / BOOTSTRAP / JS /  REACT.JS
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/mehedihasan0937" target="_blank">
+<a href="https://twitter.com/mehediweb01/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/mehedi-hasan-w-d-90634424b/" target="_blank">
+<a href="https://www.linkedin.com/in/mehediweb01/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/mehediwebdesigner" target="_blank">
+<a href="https://www.facebook.com/mehediweb01/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
